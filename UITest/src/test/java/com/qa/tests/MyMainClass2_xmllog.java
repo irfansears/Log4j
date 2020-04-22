@@ -10,7 +10,7 @@ public class MyMainClass2_xmllog {
 	static Logger log = Logger.getLogger(MyMainClass2_xmllog.class);
 
 	public static void main(String[] args) {
-
+// use DOMConfigurateror in case of log4j xml file thanks
 		DOMConfigurator.configure("log4j.xml");
 //		System.out.println("in main mehod");
 //		System.setProperty("fName", "C:\\workspace\\Workspace_Photon\\UITest\\logs\\mainmethod" +".log");
