@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="633" started-at="2020-04-22T05:55:40Z" finished-at="2020-04-22T05:55:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="633" started-at="2020-04-22T05:55:40Z" finished-at="2020-04-22T05:55:40Z">
+      <class name="com.qa.tests.CheckOutPageTest">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.CheckOutPageTest@13acb0d1]" name="setup" is-config="true" duration-ms="50" started-at="2020-04-22T11:25:40Z" finished-at="2020-04-22T11:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.CheckOutPageTest.creditTest(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="creditTest(java.lang.String)[pri:1, instance:com.qa.tests.CheckOutPageTest@13acb0d1]" name="creditTest" duration-ms="388" started-at="2020-04-22T11:25:40Z" finished-at="2020-04-22T11:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\UITest\logs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditTest -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.CheckOutPageTest@13acb0d1]" name="setup" is-config="true" duration-ms="1" started-at="2020-04-22T11:25:40Z" finished-at="2020-04-22T11:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.CheckOutPageTest.creditTest2(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="creditTest2(java.lang.String)[pri:1, instance:com.qa.tests.CheckOutPageTest@13acb0d1]" name="creditTest2" duration-ms="22" started-at="2020-04-22T11:25:40Z" finished-at="2020-04-22T11:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\UITest\logs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditTest2 -->
+      </class> <!-- com.qa.tests.CheckOutPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

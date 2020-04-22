@@ -1,0 +1,977 @@
+INFO	2020-04-21 19:29:32,842	0	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - started...
+INFO	2020-04-21 19:29:32,846	4	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - executing...
+INFO	2020-04-21 19:29:32,847	5	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - finished
+INFO	2020-04-21 19:29:32,848	6	com.qa.LoginPageTest	[main]	
+INFO	2020-04-21 19:29:32,899	57	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - started...
+INFO	2020-04-21 19:29:32,900	58	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - executing...
+INFO	2020-04-21 19:29:32,900	58	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - finished
+INFO	2020-04-21 19:29:32,901	59	com.qa.HomePageTest	[main]	
+INFO	2020-04-21 19:29:32,924	82	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - started...
+INFO	2020-04-21 19:29:32,925	83	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - executing...
+INFO	2020-04-21 19:29:32,925	83	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - finished
+INFO	2020-04-21 19:29:32,926	84	com.qa.LoginPageTest	[main]	
+INFO	2020-04-21 19:29:32,949	107	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - started...
+INFO	2020-04-21 19:29:32,950	108	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - executing...
+INFO	2020-04-21 19:29:32,951	109	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - finished
+INFO	2020-04-21 19:29:32,952	110	com.qa.HomePageTest	[main]	
+INFO	2020-04-21 19:33:09,855	0	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - started...
+INFO	2020-04-21 19:33:09,859	4	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - executing...
+INFO	2020-04-21 19:33:09,860	5	com.qa.LoginPageTest	[main]	LoginPageTest - loginTest case - finished
+INFO	2020-04-21 19:33:09,860	5	com.qa.LoginPageTest	[main]	
+INFO	2020-04-21 19:33:09,901	46	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - started...
+INFO	2020-04-21 19:33:09,902	47	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - executing...
+INFO	2020-04-21 19:33:09,903	48	com.qa.HomePageTest	[main]	HomePageTest - Title  test case - finished
+INFO	2020-04-21 19:33:09,904	49	com.qa.HomePageTest	[main]	
+INFO	2020-04-21 19:33:09,944	89	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - started...
+INFO	2020-04-21 19:33:09,946	91	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - executing...
+INFO	2020-04-21 19:33:09,946	91	com.qa.LoginPageTest	[main]	LoginPageTest - titleTest case - finished
+INFO	2020-04-21 19:33:09,947	92	com.qa.LoginPageTest	[main]	
+INFO	2020-04-21 19:33:09,968	113	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - started...
+INFO	2020-04-21 19:33:09,969	114	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - executing...
+INFO	2020-04-21 19:33:09,970	115	com.qa.HomePageTest	[main]	HomePageTest - logoTest case - finished
+INFO	2020-04-21 19:33:09,970	115	com.qa.HomePageTest	[main]	
+INFO	2020-04-21 19:37:28,323	0	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - started...
+INFO	2020-04-21 19:37:28,328	5	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - executing...
+INFO	2020-04-21 19:37:28,329	6	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - finished
+INFO	2020-04-21 19:37:28,330	7	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:38:43,156	0	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - started...
+INFO	2020-04-21 19:38:43,160	4	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - executing...
+INFO	2020-04-21 19:38:43,161	5	com.qa.CheckOutPageTest	[main]	HomePageTest - Title  test case - finished
+INFO	2020-04-21 19:38:43,161	5	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:39:28,015	1	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-21 19:39:28,020	6	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-21 19:39:28,021	7	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-21 19:39:28,022	8	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:41:15,581	0	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-21 19:41:15,587	6	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-21 19:41:15,588	7	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-21 19:41:15,589	8	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:42:50,865	0	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-21 19:42:50,870	5	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-21 19:42:50,871	6	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-21 19:42:50,872	7	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:42:50,913	48	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-21 19:42:50,914	49	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-21 19:42:50,915	50	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-21 19:42:50,916	51	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:47:49,277	0	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-21 19:47:49,282	5	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-21 19:47:49,283	6	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-21 19:47:49,284	7	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:47:49,322	45	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-21 19:47:49,324	47	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-21 19:47:49,324	47	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-21 19:47:49,325	48	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:49:19,702	0	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-21 19:49:19,706	4	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-21 19:49:19,706	4	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-21 19:49:19,707	5	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-21 19:49:19,732	30	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-21 19:49:19,733	31	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-21 19:49:19,734	32	com.qa.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-21 19:49:19,734	32	com.qa.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:30:15,493	0	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:30:15,530	37	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:30:15,530	37	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:30:15,531	38	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:30:15,558	65	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:30:15,560	67	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:30:15,561	68	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:30:15,562	69	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:32:11,237	0	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:32:11,242	5	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:32:11,243	6	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:32:11,244	7	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:32:11,282	45	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:32:11,283	46	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:32:11,284	47	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:32:11,285	48	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:33:31,410	0	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:33:31,414	4	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:33:31,415	5	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:33:31,415	5	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:33:31,441	31	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:33:31,442	32	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:33:31,443	33	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:33:31,444	34	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:33:59,141	1	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:33:59,144	4	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:33:59,145	5	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:33:59,146	6	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:33:59,179	39	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:33:59,180	40	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:33:59,181	41	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:33:59,182	42	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:34:49,598	0	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:34:49,601	3	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:34:49,601	3	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:34:49,602	4	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:34:49,640	42	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:34:49,641	43	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:34:49,641	43	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:34:49,642	44	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:38:11,008	1	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:38:11,014	7	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:38:11,016	9	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:38:11,017	10	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:38:11,071	64	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:38:11,073	66	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:38:11,074	67	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:38:11,075	68	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:38:20,244	1	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 10:38:20,251	8	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 10:38:20,253	10	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 10:38:20,262	19	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 10:38:20,322	79	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 10:38:20,323	80	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 10:38:20,324	81	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 10:38:20,325	82	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 11:00:00,948	0	com.qa.tests.MyMainClass	[main]	in main method
+INFO	2020-04-22 11:00:00,966	18	com.qa.tests.MyMainClass	[main]	in add method
+INFO	2020-04-22 11:02:11,412	1	com.qa.tests.MyMainClass	[main]	in main method
+WARN	2020-04-22 11:02:11,417	6	com.qa.tests.MyMainClass	[main]	warning in mai method
+INFO	2020-04-22 11:02:11,428	17	com.qa.tests.MyMainClass	[main]	in add method
+WARN	2020-04-22 11:02:11,428	17	com.qa.tests.MyMainClass	[main]	warning in add method
+INFO	2020-04-22 11:25:40,661	0	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - started...
+INFO	2020-04-22 11:25:40,665	4	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - executing...
+INFO	2020-04-22 11:25:40,666	5	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest  case - finished
+INFO	2020-04-22 11:25:40,667	6	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 11:25:40,698	37	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - started...
+INFO	2020-04-22 11:25:40,700	39	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - executing...
+INFO	2020-04-22 11:25:40,700	39	com.qa.tests.CheckOutPageTest	[main]	CheckOutPageTest - creditTest2  case - finished
+INFO	2020-04-22 11:25:40,701	40	com.qa.tests.CheckOutPageTest	[main]	
+INFO	2020-04-22 16:12:50,840	0	com.qa.tests.MyMainClass	[main]	in main method
+WARN	2020-04-22 16:12:50,850	10	com.qa.tests.MyMainClass	[main]	warning in mai method
+DEBUG	2020-04-22 16:12:50,851	11	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:12:50,852	12	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:12:50,853	13	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:12:50,854	14	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:12:50,855	15	com.qa.tests.MyMainClass	[main]	Fatal Message!
+INFO	2020-04-22 16:12:50,867	27	com.qa.tests.MyMainClass	[main]	in add method
+WARN	2020-04-22 16:12:50,868	28	com.qa.tests.MyMainClass	[main]	warning in add method
+DEBUG	2020-04-22 16:13:10,061	0	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:13:10,067	6	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:13:10,068	7	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:13:10,069	8	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:13:10,070	9	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:19:12,947	0	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:19:12,953	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:19:12,954	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:19:12,955	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:19:12,956	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:19:12,957	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+WARN	2020-04-22 16:19:26,621	0	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:19:26,626	5	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:19:26,627	6	com.qa.tests.MyMainClass	[main]	Fatal Message!
+ERROR	2020-04-22 16:19:41,930	0	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:19:41,937	7	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:20:58,904	1	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:20:58,910	7	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:20:58,912	9	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:20:58,913	10	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:20:58,914	11	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:20:58,915	12	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:22:09,871	0	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:22:09,875	4	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:22:09,877	6	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:22:09,877	6	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:22:09,878	7	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:22:09,879	8	com.qa.tests.MyMainClass	[main]	Fatal Message!
+WARN	2020-04-22 16:22:22,063	1	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:22:22,071	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:22:22,073	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+WARN	2020-04-22 16:31:43,110	0	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:31:43,117	7	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:31:43,118	8	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:32:22,454	0	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:32:22,461	7	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:32:22,463	9	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:32:22,464	10	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:32:22,465	11	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:32:22,466	12	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:32:35,874	0	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:32:35,878	4	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:32:35,879	5	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:32:35,880	6	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:32:35,881	7	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:32:35,882	8	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:33:51,911	0	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:33:51,918	7	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:33:51,919	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:33:51,920	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:33:51,921	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:33:51,921	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:34:37,280	1	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:34:37,285	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:34:37,287	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:34:37,288	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:34:37,289	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:34:37,290	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:35:44,593	1	com.qa.tests.MyMainClass	[main]	Trace Message!
+DEBUG	2020-04-22 16:35:44,597	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:35:44,599	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:35:44,600	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:35:44,601	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:35:44,602	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:36:19,426	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:36:19,431	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:36:19,433	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:36:19,434	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:36:19,434	8	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:36:19,435	9	com.qa.tests.MyMainClass	[main]	Fatal Message!
+TRACE	2020-04-22 16:36:39,840	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:36:39,846	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:36:39,848	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:36:39,849	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:36:39,850	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:36:39,851	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+TRACE	2020-04-22 16:36:58,492	1	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:36:58,496	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:36:58,498	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:36:58,499	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:36:58,500	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:36:58,501	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:36:58,502	11	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:38:10,172	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:38:10,180	8	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:38:10,182	10	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:38:10,184	12	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:38:10,185	13	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:38:10,186	14	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:38:10,187	15	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:41:01,877	1	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:41:01,882	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:41:01,893	17	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:41:01,894	18	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:41:01,896	20	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:41:01,897	21	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:41:01,897	21	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:42:09,680	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:42:09,685	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:42:09,687	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:42:09,687	7	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:42:09,688	8	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:42:09,689	9	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:42:09,690	10	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:42:23,453	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:42:23,459	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:42:23,461	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:42:23,462	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:42:23,463	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:42:23,464	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:42:23,466	13	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:03,290	1	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:03,297	8	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:03,300	11	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:03,301	12	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:03,302	13	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:03,304	15	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:03,305	16	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,061	1	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,068	8	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,071	11	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,081	21	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,082	22	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,083	23	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,084	24	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,085	25	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,085	25	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,089	29	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,090	30	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,092	32	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,093	33	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,094	34	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,095	35	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,095	35	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,099	39	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,100	40	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,101	41	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,103	43	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,103	43	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,105	45	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,106	46	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,108	48	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,110	50	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,111	51	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,113	53	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,118	58	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,119	59	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,119	59	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,120	60	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,121	61	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,131	71	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,133	73	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,134	74	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,135	75	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,136	76	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,137	77	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,138	78	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,138	78	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,139	79	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,140	80	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:26,141	81	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:26,141	81	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:26,142	82	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:26,143	83	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:26,144	84	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:26,145	85	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:26,146	86	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,704	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,709	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,711	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,712	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,713	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,714	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,715	11	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,716	12	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,716	12	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,717	13	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,718	14	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,719	15	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,730	26	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,731	27	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,732	28	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,732	28	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,733	29	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,733	29	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,734	30	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,735	31	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,736	32	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,736	32	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,737	33	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,737	33	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,738	34	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,739	35	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,739	35	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,740	36	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,741	37	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,741	37	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,742	38	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,742	38	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,743	39	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,744	40	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,744	40	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,745	41	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,745	41	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,746	42	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,747	43	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,747	43	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,748	44	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,762	58	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:36,764	60	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:36,764	60	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:36,765	61	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:36,766	62	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:36,766	62	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:36,767	63	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:36,768	64	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,023	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,029	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,031	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,032	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,033	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,034	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,035	12	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,036	13	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,036	13	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,037	14	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,038	15	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,039	16	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,041	18	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,041	18	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,042	19	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,043	20	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,044	21	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,044	21	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,045	22	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,046	23	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,047	24	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,060	37	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,061	38	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,062	39	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,063	40	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,064	41	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,064	41	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,065	42	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,066	43	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,066	43	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,067	44	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,068	45	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,069	46	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,070	47	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,071	48	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,072	49	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,073	50	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,074	51	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,075	52	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,075	52	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,076	53	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,077	54	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:43:44,078	55	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:43:44,078	55	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:43:44,079	56	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:43:44,084	61	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:43:44,085	62	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:43:44,086	63	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:43:44,086	63	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,557	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,563	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,582	25	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,584	27	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,585	28	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,586	29	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,587	30	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,588	31	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,588	31	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,590	33	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,591	34	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,592	35	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,593	36	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,594	37	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,595	38	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,595	38	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,596	39	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,597	40	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,598	41	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,599	42	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,600	43	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,601	44	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,601	44	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,602	45	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,604	47	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,605	48	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,606	49	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,607	50	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,608	51	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,608	51	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,609	52	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,627	70	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,629	72	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,630	73	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,631	74	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,632	75	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,633	76	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,634	77	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,635	78	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,636	79	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,638	81	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,639	82	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:01,640	83	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:01,640	83	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:01,641	84	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:01,642	85	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:01,643	86	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:01,644	87	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:01,645	88	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,542	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,546	4	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,548	6	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,548	6	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,549	7	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,550	8	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,550	8	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,551	9	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,551	9	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,553	11	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,554	12	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,566	24	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,567	25	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,568	26	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,569	27	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,569	27	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,570	28	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,571	29	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,572	30	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,573	31	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,574	32	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,575	33	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,575	33	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,576	34	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,577	35	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,578	36	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,579	37	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,580	38	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,581	39	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,581	39	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,582	40	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,583	41	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,583	41	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,584	42	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,584	42	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,585	43	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,585	43	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,586	44	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,587	45	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,587	45	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,598	56	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,599	57	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:18,599	57	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:18,600	58	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:18,600	58	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:18,601	59	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:18,602	60	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:18,603	61	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:18,604	62	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,238	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,242	4	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,243	5	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,244	6	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,245	7	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,245	7	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,246	8	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,247	9	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,247	9	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,248	10	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,249	11	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,249	11	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,250	12	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,251	13	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,251	13	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,251	13	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,252	14	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,252	14	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,253	15	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,254	16	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,265	27	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,266	28	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,266	28	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,267	29	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,267	29	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,268	30	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,269	31	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,270	32	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,270	32	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,270	32	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,271	33	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,272	34	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,272	34	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,273	35	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,274	36	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,275	37	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,275	37	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,276	38	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,277	39	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,277	39	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,278	40	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,278	40	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:44:31,279	41	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:44:31,279	41	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:44:31,280	42	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:44:31,281	43	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:44:31,281	43	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:44:31,282	44	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:44:31,282	44	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,302	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,306	4	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,309	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,310	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,311	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,312	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,314	12	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,315	13	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,315	13	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,317	15	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,318	16	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,320	18	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,321	19	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,323	21	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,324	22	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,324	22	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,325	23	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,326	24	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,327	25	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,328	26	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,329	27	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,330	28	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,330	28	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,331	29	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,333	31	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,333	31	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,334	32	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,335	33	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,336	34	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,336	34	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,350	48	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,352	50	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,353	51	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,353	51	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,354	52	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,364	62	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,364	62	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,367	65	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,369	67	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,381	79	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,404	102	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,405	103	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:45:24,406	104	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:45:24,407	105	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:45:24,407	105	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:45:24,409	107	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:45:24,410	108	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:45:24,411	109	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:45:24,412	110	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,620	1	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,625	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,627	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,628	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,629	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,630	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,631	12	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,632	13	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,632	13	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,633	14	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,657	38	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,659	40	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,660	41	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,661	42	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,662	43	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,662	43	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,667	48	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,668	49	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,669	50	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,670	51	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,671	52	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,672	53	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,672	53	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,673	54	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,674	55	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,676	57	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,676	57	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,677	58	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,678	59	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,678	59	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,679	60	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,686	67	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,686	67	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,687	68	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,688	69	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,689	70	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,689	70	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,691	72	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,714	95	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,715	96	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,716	97	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,717	98	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:49:59,718	99	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:49:59,718	99	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:49:59,719	100	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:49:59,722	103	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:49:59,723	104	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:49:59,724	105	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:49:59,725	106	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,167	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,172	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,174	7	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,175	8	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,176	9	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,176	9	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,177	10	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,178	11	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,178	11	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,179	12	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,180	13	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,181	14	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,182	15	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,184	17	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,185	18	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,185	18	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,187	20	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,187	20	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,188	21	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,189	22	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,190	23	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,190	23	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,191	24	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,191	24	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,192	25	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,193	26	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,194	27	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,194	27	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,201	34	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,201	34	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,202	35	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,203	36	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,203	36	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,204	37	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,205	38	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,206	39	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,206	39	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,207	40	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,208	41	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,209	42	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,210	43	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,211	44	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:50:30,211	44	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:50:30,212	45	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:50:30,213	46	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:50:30,214	47	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:50:30,214	47	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:50:30,215	48	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:50:30,216	49	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,699	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,705	6	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,708	9	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,708	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,709	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,710	11	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,711	12	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,721	22	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,721	22	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,723	24	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,723	24	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,724	25	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,725	26	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,726	27	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,727	28	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,727	28	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,728	29	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,729	30	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,730	31	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,731	32	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,732	33	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,733	34	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,733	34	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,734	35	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,735	36	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,736	37	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,737	38	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,737	38	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,738	39	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,738	39	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,739	40	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,740	41	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,741	42	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,741	42	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,742	43	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,751	52	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,752	53	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,753	54	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,754	55	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,755	56	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,756	57	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,757	58	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 16:59:23,758	59	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 16:59:23,759	60	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 16:59:23,759	60	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 16:59:23,761	62	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 16:59:23,761	62	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 16:59:23,764	65	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 16:59:23,765	66	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,588	0	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,593	5	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,596	8	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,597	9	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,598	10	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,598	10	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,601	13	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,602	14	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,603	15	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,605	17	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,607	19	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,608	20	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,610	22	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,611	23	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,627	39	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,627	39	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,628	40	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,629	41	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,630	42	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,631	43	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,632	44	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,633	45	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,633	45	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,635	47	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,636	48	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,636	48	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,637	49	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,638	50	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,639	51	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,639	51	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,640	52	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,641	53	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,643	55	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,644	56	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,645	57	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,646	58	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,646	58	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,647	59	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,648	60	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,649	61	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,650	62	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,651	63	com.qa.tests.MyMainClass	[main]	--------------
+TRACE	2020-04-22 17:09:06,663	75	com.qa.tests.MyMainClass	[main]	
+Trace Message!
+DEBUG	2020-04-22 17:09:06,664	76	com.qa.tests.MyMainClass	[main]	Debug Message!
+INFO	2020-04-22 17:09:06,664	76	com.qa.tests.MyMainClass	[main]	Info Message!
+WARN	2020-04-22 17:09:06,665	77	com.qa.tests.MyMainClass	[main]	Warn Message!
+ERROR	2020-04-22 17:09:06,666	78	com.qa.tests.MyMainClass	[main]	Error Message!
+FATAL	2020-04-22 17:09:06,667	79	com.qa.tests.MyMainClass	[main]	Fatal Message!
+
+DEBUG	2020-04-22 17:09:06,667	79	com.qa.tests.MyMainClass	[main]	--------------
