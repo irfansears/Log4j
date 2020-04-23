@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionTestSuite]">
+  <parameter name="log_dir" value="C:\workspace\Workspace_Photon\POM\testlogs\"/>
+  <test name="UserTests(failed)">
+    <classes>
+      <class name="com.qa.tests.HomePageTest">
+        <methods>
+          <include name="verifyUserNameTest"/>
+          <include name="verifyHomePageTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyContactsLinkTest"/>
+        </methods>
+      </class> <!-- com.qa.tests.HomePageTest -->
+      <class name="com.qa.tests.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.qa.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- UserTests(failed) -->
+</suite> <!-- Failed suite [RegressionTestSuite] -->

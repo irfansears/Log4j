@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionTestSuite" duration-ms="1088" started-at="2020-04-23T06:04:10Z" finished-at="2020-04-23T06:04:11Z">
+    <groups>
+    </groups>
+    <test name="UserTests" duration-ms="1088" started-at="2020-04-23T06:04:10Z" finished-at="2020-04-23T06:04:11Z">
+      <class name="com.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="setUp" is-config="true" duration-ms="46" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.HomePageTest.verifyBannerTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBannerTest()[pri:1, instance:com.qa.tests.HomePageTest@6107227e]" name="verifyBannerTest" duration-ms="16" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="tearDown" is-config="true" duration-ms="3" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="setUp" is-config="true" duration-ms="23" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.HomePageTest.verifyUserNameTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.qa.tests.HomePageTest@6107227e]" name="verifyUserNameTest" duration-ms="9" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="tearDown" is-config="true" duration-ms="3" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="setUp" is-config="true" duration-ms="21" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.HomePageTest.verifyContactsLinkTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactsLinkTest()[pri:3, instance:com.qa.tests.HomePageTest@6107227e]" name="verifyContactsLinkTest" duration-ms="7" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@6107227e]" name="tearDown" is-config="true" duration-ms="3" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.HomePageTest -->
+      <class name="com.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="setUp" is-config="true" duration-ms="547" started-at="2020-04-23T11:34:10Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginPageTest.verifyTitleTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.qa.tests.LoginPageTest@5db45159]" name="verifyTitleTest" duration-ms="35" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="tearDown" is-config="true" duration-ms="19" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="setUp" is-config="true" duration-ms="15" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginPageTest.verifyLogoTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:2, instance:com.qa.tests.LoginPageTest@5db45159]" name="verifyLogoTest" duration-ms="11" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="tearDown" is-config="true" duration-ms="4" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="setUp" is-config="true" duration-ms="15" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginPageTest.verifySignInTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignInTest()[pri:3, instance:com.qa.tests.LoginPageTest@5db45159]" name="verifySignInTest" duration-ms="11" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5db45159]" name="tearDown" is-config="true" duration-ms="4" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginPageTest -->
+      <class name="com.qa.tests.SignUpPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.SignUpPageTest@7c417213]" name="setUp" is-config="true" duration-ms="15" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.SignUpPageTest.verifyFieldsTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyFieldsTest()[pri:1, instance:com.qa.tests.SignUpPageTest@7c417213]" name="verifyFieldsTest" duration-ms="6" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFieldsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.SignUpPageTest@7c417213]" name="tearDown" is-config="true" duration-ms="4" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String)[pri:0, instance:com.qa.tests.SignUpPageTest@7c417213]" name="setUp" is-config="true" duration-ms="19" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.SignUpPageTest.verifySignInButtonTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\workspace\Workspace_Photon\POM\testlogs\]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignInButtonTest()[pri:2, instance:com.qa.tests.SignUpPageTest@7c417213]" name="verifySignInButtonTest" duration-ms="8" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.SignUpPageTest@7c417213]" name="tearDown" is-config="true" duration-ms="4" started-at="2020-04-23T11:34:11Z" finished-at="2020-04-23T11:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.SignUpPageTest -->
+    </test> <!-- UserTests -->
+  </suite> <!-- RegressionTestSuite -->
+</testng-results>

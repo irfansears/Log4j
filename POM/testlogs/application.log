@@ -1,0 +1,809 @@
+INFO	2020-04-23 08:01:45,974	790	com.qa.tests.LoginPageTest	[main]	"titleTest" is started...
+INFO	2020-04-23 08:01:45,978	794	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:01:45,981	797	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:01:46,164	980	com.qa.base.TestBase	[main]	getting tile
+INFO	2020-04-23 08:01:46,166	982	com.qa.base.TestBase	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:01:46,180	996	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:01:46,181	997	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:01:46,211	1027	com.qa.base.TestBase	[main]	"logoTest" is started...
+INFO	2020-04-23 08:01:46,212	1028	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:01:46,213	1029	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:01:46,224	1040	com.qa.base.TestBase	[main]	checking image
+INFO	2020-04-23 08:01:46,225	1041	com.qa.base.TestBase	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:01:46,234	1050	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:01:46,261	1077	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:01:46,279	1095	com.qa.base.TestBase	[main]	"loginTest" is started...
+INFO	2020-04-23 08:01:46,280	1096	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:01:46,281	1097	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:01:46,291	1107	com.qa.base.TestBase	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:01:46,300	1116	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:01:46,301	1117	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:02:57,798	777	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:02:57,802	781	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:02:57,806	785	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:02:57,979	958	com.qa.base.TestBase	[main]	getting tile
+INFO	2020-04-23 08:02:57,981	960	com.qa.base.TestBase	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:02:58,001	980	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:02:58,002	981	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:02:58,059	1038	com.qa.base.TestBase	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:02:58,061	1040	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:02:58,062	1041	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:02:58,072	1051	com.qa.base.TestBase	[main]	checking image
+INFO	2020-04-23 08:02:58,073	1052	com.qa.base.TestBase	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:02:58,082	1061	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:02:58,083	1062	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:02:58,100	1079	com.qa.base.TestBase	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:02:58,102	1081	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:02:58,103	1082	com.qa.base.TestBase	[main]	 reading property files..
+INFO	2020-04-23 08:02:58,113	1092	com.qa.base.TestBase	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:02:58,122	1101	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:02:58,122	1101	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:04:42,318	720	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:04:42,322	724	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:04:42,325	727	com.qa.base.TestBase	[main]	reading property files..
+INFO	2020-04-23 08:04:42,517	919	com.qa.base.TestBase	[main]	getting tile
+INFO	2020-04-23 08:04:42,519	921	com.qa.base.TestBase	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:04:42,574	976	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:04:42,575	977	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:04:42,597	999	com.qa.base.TestBase	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:04:42,599	1001	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:04:42,599	1001	com.qa.base.TestBase	[main]	reading property files..
+INFO	2020-04-23 08:04:42,608	1010	com.qa.base.TestBase	[main]	checking image
+INFO	2020-04-23 08:04:42,609	1011	com.qa.base.TestBase	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:04:42,618	1020	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:04:42,619	1021	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:04:42,638	1040	com.qa.base.TestBase	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:04:42,639	1041	com.qa.base.TestBase	[main]	launching the browser ...
+INFO	2020-04-23 08:04:42,640	1042	com.qa.base.TestBase	[main]	reading property files..
+INFO	2020-04-23 08:04:42,649	1051	com.qa.base.TestBase	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:04:42,657	1059	com.qa.base.TestBase	[main]	closing the  browser...
+INFO	2020-04-23 08:04:42,658	1060	com.qa.base.TestBase	[main]	browser is terminated successfully
+INFO	2020-04-23 08:06:16,003	673	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:06:16,008	678	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:06:16,012	682	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:06:16,246	916	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:06:16,248	918	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:06:16,324	994	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:06:16,325	995	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:06:16,344	1014	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:06:16,346	1016	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:06:16,347	1017	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:06:16,358	1028	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:06:16,359	1029	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:06:16,367	1037	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:06:16,368	1038	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:06:16,385	1055	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:06:16,387	1057	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:06:16,388	1058	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:06:16,397	1067	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:06:16,405	1075	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:06:16,406	1076	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:09:11,042	712	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:09:11,046	716	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:09:11,049	719	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:09:11,219	889	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:09:11,220	890	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:09:11,232	902	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:09:11,233	903	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:09:11,285	955	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:09:11,286	956	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:09:11,287	957	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:09:11,297	967	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:09:11,298	968	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:09:11,313	983	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:09:11,314	984	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:09:11,333	1003	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:09:11,334	1004	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:09:11,335	1005	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:09:11,342	1012	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:09:11,349	1019	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:09:11,350	1020	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:12:48,704	693	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:12:48,708	697	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:12:48,711	700	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:12:48,893	882	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:12:48,894	883	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:12:48,908	897	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:12:48,909	898	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:12:48,932	921	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:12:48,933	922	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:12:48,934	923	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:12:48,944	933	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:12:48,945	934	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:12:48,953	942	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:12:48,954	943	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:12:48,978	967	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:12:48,980	969	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:12:48,980	969	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:12:48,991	980	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:12:49,003	992	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:12:49,005	994	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:39:34,189	787	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:39:34,193	791	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:39:34,196	794	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:39:34,369	967	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:39:34,370	968	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:39:34,382	980	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:39:34,383	981	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:39:34,407	1005	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:39:34,409	1007	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:39:34,410	1008	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:39:34,447	1045	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:39:34,448	1046	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:39:34,460	1058	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:39:34,461	1059	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:39:34,488	1086	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:39:34,490	1088	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:39:34,490	1088	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:39:34,501	1099	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:39:34,508	1106	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:39:34,509	1107	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:41:07,411	748	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:41:07,415	752	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:41:07,418	755	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:41:07,584	921	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:41:07,585	922	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:41:07,598	935	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:41:07,599	936	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:41:07,622	959	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:41:07,623	960	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:41:07,624	961	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:41:07,635	972	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:41:07,635	972	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:41:07,645	982	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:41:07,646	983	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:41:07,673	1010	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:41:07,675	1012	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:41:07,675	1012	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:41:07,686	1023	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:41:07,696	1033	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:41:07,697	1034	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:53:04,585	699	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:53:04,590	704	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:53:04,593	707	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:53:04,790	904	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:53:04,793	907	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:53:04,835	949	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:53:04,836	950	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:53:04,907	1021	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:53:04,909	1023	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:53:04,909	1023	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:53:04,919	1033	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:53:04,920	1034	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:53:04,927	1041	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:53:04,928	1042	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:53:04,946	1060	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:53:04,947	1061	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:53:04,948	1062	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:53:04,957	1071	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:53:04,965	1079	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:53:04,966	1080	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:56:39,621	732	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:56:39,627	738	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:56:39,631	742	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:56:39,823	934	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:56:39,824	935	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:56:39,837	948	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:56:39,838	949	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:56:39,862	973	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:56:39,864	975	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:56:39,864	975	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:56:39,874	985	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:56:39,875	986	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:56:39,895	1006	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:56:39,896	1007	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:56:39,915	1026	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:56:39,916	1027	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:56:39,917	1028	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:56:39,927	1038	com.qa.tests.LoginPageTest	[main]	checking login
+INFO	2020-04-23 08:56:39,930	1041	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:56:39,931	1042	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 08:56:39,938	1049	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:56:39,939	1050	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:59:41,446	726	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 08:59:41,450	730	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:59:41,453	733	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:59:41,671	951	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 08:59:41,707	987	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:59:41,709	989	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:59:41,710	990	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 08:59:41,727	1007	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 08:59:41,728	1008	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:59:41,729	1009	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:59:41,740	1020	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 08:59:41,747	1027	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:59:41,749	1029	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:59:41,750	1030	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 08:59:41,772	1052	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 08:59:41,809	1089	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 08:59:41,810	1090	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:59:41,818	1098	com.qa.tests.LoginPageTest	[main]	checking login
+INFO	2020-04-23 08:59:41,820	1100	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 08:59:41,829	1109	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 08:59:41,830	1110	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 08:59:41,831	1111	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 09:05:31,482	697	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 09:05:31,486	701	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:05:31,489	704	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:05:31,663	878	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 09:05:31,678	893	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:05:31,680	895	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:05:31,681	896	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 09:05:31,705	920	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 09:05:31,707	922	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:05:31,708	923	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:05:31,719	934	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 09:05:31,729	944	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:05:31,730	945	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:05:31,731	946	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 09:05:31,748	963	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 09:05:31,750	965	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:05:31,751	966	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:05:31,769	984	com.qa.tests.LoginPageTest	[main]	checking login
+INFO	2020-04-23 09:05:31,772	987	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:05:31,782	997	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:05:31,784	999	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:05:31,784	999	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 09:06:26,951	697	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 09:06:26,954	700	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:06:26,957	703	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:06:27,226	972	com.qa.tests.LoginPageTest	[main]	getting tile
+INFO	2020-04-23 09:06:27,248	994	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:06:27,249	995	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:06:27,250	996	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 09:06:27,272	1018	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 09:06:27,273	1019	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:06:27,274	1020	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:06:27,284	1030	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 09:06:27,291	1037	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:06:27,292	1038	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:06:27,293	1039	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 09:06:27,309	1055	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 09:06:27,310	1056	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:06:27,310	1056	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:06:27,319	1065	com.qa.tests.LoginPageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 09:06:27,320	1066	com.qa.tests.LoginPageTest	[main]	checking login
+INFO	2020-04-23 09:06:27,322	1068	com.qa.tests.LoginPageTest	[main]	reading property files..
+INFO	2020-04-23 09:06:27,329	1075	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:06:27,330	1076	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:06:27,331	1077	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 09:52:37,632	827	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 09:52:37,636	831	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:52:37,639	834	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 09:52:37,818	1013	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 09:52:37,845	1040	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:52:37,846	1041	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:52:37,847	1042	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 09:52:37,945	1140	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 09:52:37,947	1142	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:52:37,948	1143	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 09:52:37,958	1153	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 09:52:37,975	1170	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:52:37,983	1178	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:52:37,984	1179	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 09:52:38,002	1197	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 09:52:38,004	1199	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 09:52:38,005	1200	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 09:52:38,014	1209	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 09:52:38,026	1221	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 09:52:38,028	1223	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 09:52:38,029	1224	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 10:01:21,427	704	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 10:01:21,431	708	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:01:21,434	711	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,585	862	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,588	865	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,589	866	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,594	871	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:01:21,595	872	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:01:21,600	877	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,674	951	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 10:01:21,676	953	com.qa.tests.HomePageTest	[main]	get title
+INFO	2020-04-23 10:01:21,701	978	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:01:21,702	979	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:01:21,703	980	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 10:01:21,730	1007	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 10:01:21,732	1009	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:01:21,733	1010	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,739	1016	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,741	1018	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,741	1018	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,744	1021	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:01:21,745	1022	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:01:21,745	1022	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,758	1035	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 10:01:21,759	1036	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 10:01:21,768	1045	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:01:21,770	1047	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:01:21,770	1047	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 10:01:21,788	1065	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 10:01:21,790	1067	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:01:21,791	1068	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,793	1070	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,794	1071	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,795	1072	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,797	1074	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:01:21,798	1075	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:01:21,799	1076	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,812	1089	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 10:01:21,813	1090	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 10:01:21,814	1091	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 10:01:21,815	1092	com.qa.tests.HomePageTest	[main]	reading property files..
+INFO	2020-04-23 10:01:21,825	1102	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:01:21,826	1103	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:01:21,827	1104	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 10:03:51,985	0	com.qa.tests.HomePageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 10:03:51,989	4	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,172	187	com.qa.tests.HomePageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 10:03:52,173	188	com.qa.tests.HomePageTest	[main]	getting tile
+INFO	2020-04-23 10:03:52,196	211	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,197	212	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,198	213	com.qa.tests.HomePageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 10:03:52,221	236	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 10:03:52,223	238	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,235	250	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:03:52,236	251	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:03:52,267	282	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 10:03:52,269	284	com.qa.tests.HomePageTest	[main]	get title
+INFO	2020-04-23 10:03:52,280	295	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,281	296	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,282	297	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 10:03:52,298	313	com.qa.tests.HomePageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 10:03:52,299	314	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,307	322	com.qa.tests.HomePageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 10:03:52,308	323	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 10:03:52,314	329	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,315	330	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,316	331	com.qa.tests.HomePageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 10:03:52,327	342	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 10:03:52,329	344	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,332	347	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:03:52,333	348	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:03:52,340	355	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 10:03:52,341	356	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 10:03:52,349	364	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,350	365	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,351	366	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 10:03:52,366	381	com.qa.tests.HomePageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 10:03:52,367	382	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,375	390	com.qa.tests.HomePageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 10:03:52,376	391	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:03:52,377	392	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:03:52,386	401	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,387	402	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,387	402	com.qa.tests.HomePageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 10:03:52,403	418	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 10:03:52,404	419	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 10:03:52,412	427	com.qa.tests.HomePageTest	[main]	reading the file from IO utils
+INFO	2020-04-23 10:03:52,413	428	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 10:03:52,419	434	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 10:03:52,420	435	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 10:03:52,421	436	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 10:03:52,432	447	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 10:03:52,433	448	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 10:03:52,433	448	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:13:49,864	0	com.qa.tests.HomePageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:13:49,872	8	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:13:50,159	295	com.qa.tests.HomePageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:13:50,161	297	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:13:50,172	308	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:13:50,173	309	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:13:50,174	310	com.qa.tests.HomePageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:13:50,199	335	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:13:50,200	336	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:13:50,264	400	com.qa.tests.HomePageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:13:50,266	402	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:13:50,280	416	com.qa.tests.HomePageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:13:50,282	418	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:13:50,291	427	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:13:50,292	428	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:13:50,293	429	com.qa.tests.HomePageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:13:50,332	468	com.qa.tests.HomePageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:13:50,334	470	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:13:50,344	480	com.qa.tests.HomePageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:13:50,356	492	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:13:50,357	493	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:13:50,358	494	com.qa.tests.HomePageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:15:57,469	0	com.qa.tests.HomePageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:15:57,474	5	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:15:57,689	220	com.qa.tests.HomePageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:15:57,690	221	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:15:57,702	233	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:15:57,703	234	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:15:57,704	235	com.qa.tests.HomePageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:15:57,774	305	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:15:57,777	308	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:15:57,831	362	com.qa.tests.HomePageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:15:57,833	364	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:15:57,842	373	com.qa.tests.HomePageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:15:57,843	374	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:15:57,851	382	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:15:57,852	383	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:15:57,853	384	com.qa.tests.HomePageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:15:57,882	413	com.qa.tests.HomePageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:15:57,883	414	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:15:57,891	422	com.qa.tests.HomePageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:15:57,903	434	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:15:57,904	435	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:15:57,905	436	com.qa.tests.HomePageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:16:45,831	0	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:16:45,835	4	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:16:46,006	175	com.qa.tests.LoginPageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:16:46,008	177	com.qa.tests.LoginPageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:16:46,022	191	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:16:46,023	192	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:16:46,024	193	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:16:46,050	219	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:16:46,051	220	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:16:46,064	233	com.qa.tests.LoginPageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:16:46,065	234	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 11:16:46,078	247	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:16:46,079	248	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:16:46,080	249	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:16:46,101	270	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:16:46,102	271	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:16:46,109	278	com.qa.tests.LoginPageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:16:46,124	293	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:16:46,126	295	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:16:46,127	296	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:18:03,677	0	com.qa.tests.LoginPageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:18:03,681	4	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:03,841	164	com.qa.tests.LoginPageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:18:03,842	165	com.qa.tests.LoginPageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:18:03,867	190	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:03,873	196	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:03,874	197	com.qa.tests.LoginPageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:18:03,939	262	com.qa.tests.LoginPageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:18:03,940	263	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:03,955	278	com.qa.tests.LoginPageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:18:03,955	278	com.qa.tests.LoginPageTest	[main]	checking image
+INFO	2020-04-23 11:18:03,964	287	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:03,965	288	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:03,966	289	com.qa.tests.LoginPageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:18:03,982	305	com.qa.tests.LoginPageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:18:03,983	306	com.qa.tests.LoginPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:04,007	330	com.qa.tests.LoginPageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:18:04,008	331	com.qa.tests.LoginPageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:04,009	332	com.qa.tests.LoginPageTest	[main]	checking login
+INFO	2020-04-23 11:18:04,024	347	com.qa.tests.LoginPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:04,025	348	com.qa.tests.LoginPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:04,027	350	com.qa.tests.LoginPageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:18:31,519	0	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:18:31,523	4	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:31,659	140	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:31,661	142	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:31,705	186	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 11:18:31,707	188	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:18:31,720	201	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:31,721	202	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:31,722	203	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 11:18:31,752	233	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:18:31,754	235	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:31,765	246	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:31,766	247	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:31,777	258	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:18:31,778	259	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:18:31,789	270	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:31,790	271	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:31,791	272	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:18:31,871	352	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:18:31,872	353	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:31,878	359	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:31,879	360	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:31,890	371	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:18:31,891	372	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:18:31,892	373	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:18:31,903	384	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:31,905	386	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:31,906	387	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:18:47,901	0	com.qa.tests.HomePageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:18:47,905	4	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,074	173	com.qa.tests.HomePageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:18:48,075	174	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:18:48,087	186	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,088	187	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,088	187	com.qa.tests.HomePageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:18:48,123	222	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:18:48,125	224	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,132	231	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:48,133	232	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:48,154	253	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 11:18:48,155	254	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:18:48,164	263	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,166	265	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,167	266	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 11:18:48,181	280	com.qa.tests.HomePageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:18:48,182	281	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,189	288	com.qa.tests.HomePageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:18:48,190	289	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:18:48,196	295	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,197	296	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,198	297	com.qa.tests.HomePageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:18:48,211	310	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:18:48,212	311	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,216	315	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:48,218	317	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:48,227	326	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:18:48,229	328	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:18:48,245	344	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,246	345	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,247	346	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:18:48,261	360	com.qa.tests.HomePageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:18:48,262	361	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,270	369	com.qa.tests.HomePageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:18:48,270	369	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:48,271	370	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:48,279	378	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,280	379	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,281	380	com.qa.tests.HomePageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:18:48,295	394	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:18:48,296	395	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:18:48,304	403	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:18:48,304	403	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:18:48,312	411	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:18:48,312	411	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:18:48,314	413	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:18:48,321	420	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:18:48,322	421	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:18:48,323	422	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:22:09,228	0	com.qa.tests.HomePageTest	[main]	************************"titleTest" is started...************************
+INFO	2020-04-23 11:22:09,232	4	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,417	189	com.qa.tests.HomePageTest	[main]	verifying titleTest tests
+INFO	2020-04-23 11:22:09,419	191	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:22:09,430	202	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,431	203	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,432	204	com.qa.tests.HomePageTest	[main]	titleTest is completed successfully
+INFO	2020-04-23 11:22:09,455	227	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:22:09,456	228	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,464	236	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:22:09,464	236	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:22:09,484	256	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 11:22:09,485	257	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:22:09,511	283	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,512	284	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,513	285	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 11:22:09,534	306	com.qa.tests.HomePageTest	[main]	************************"logoTest" is started...************************
+INFO	2020-04-23 11:22:09,535	307	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,545	317	com.qa.tests.HomePageTest	[main]	verifying logoTest tests
+INFO	2020-04-23 11:22:09,546	318	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:22:09,555	327	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,556	328	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,557	329	com.qa.tests.HomePageTest	[main]	logoTest is completed successfully
+INFO	2020-04-23 11:22:09,570	342	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:22:09,572	344	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,576	348	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:22:09,577	349	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:22:09,586	358	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:22:09,589	361	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:22:09,598	370	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,599	371	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,600	372	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:22:09,614	386	com.qa.tests.HomePageTest	[main]	************************"loginTest" is started...************************
+INFO	2020-04-23 11:22:09,616	388	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,628	400	com.qa.tests.HomePageTest	[main]	verifying loginTest tests
+INFO	2020-04-23 11:22:09,629	401	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:22:09,630	402	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:22:09,642	414	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,643	415	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,643	415	com.qa.tests.HomePageTest	[main]	loginTest is completed successfully
+INFO	2020-04-23 11:22:09,664	436	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:22:09,665	437	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:22:09,676	448	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:22:09,677	449	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:22:09,684	456	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:22:09,685	457	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:22:09,686	458	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:22:09,694	466	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:22:09,694	466	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:22:09,695	467	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:24:21,187	0	com.qa.tests.HomePageTest	[main]	************************"verifyLoginPageTitleTest" is started...************************
+INFO	2020-04-23 11:24:21,191	4	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,352	165	com.qa.tests.HomePageTest	[main]	verifying verifyLoginPageTitleTest tests
+INFO	2020-04-23 11:24:21,354	167	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:24:21,366	179	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,367	180	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,368	181	com.qa.tests.HomePageTest	[main]	verifyLoginPageTitleTest is completed successfully
+INFO	2020-04-23 11:24:21,406	219	com.qa.tests.HomePageTest	[main]	************************"verifyHomePageTitleTest" is started...************************
+INFO	2020-04-23 11:24:21,408	221	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,427	240	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:24:21,428	241	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:24:21,447	260	com.qa.tests.HomePageTest	[main]	verifying verifyHomePageTitleTest tests
+INFO	2020-04-23 11:24:21,448	261	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:24:21,469	282	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,471	284	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,471	284	com.qa.tests.HomePageTest	[main]	verifyHomePageTitleTest is completed successfully
+INFO	2020-04-23 11:24:21,494	307	com.qa.tests.HomePageTest	[main]	************************"verifyLoginPageLogoTest" is started...************************
+INFO	2020-04-23 11:24:21,496	309	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,506	319	com.qa.tests.HomePageTest	[main]	verifying verifyLoginPageLogoTest tests
+INFO	2020-04-23 11:24:21,508	321	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:24:21,517	330	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,518	331	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,519	332	com.qa.tests.HomePageTest	[main]	verifyLoginPageLogoTest is completed successfully
+INFO	2020-04-23 11:24:21,536	349	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:24:21,537	350	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,541	354	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:24:21,542	355	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:24:21,551	364	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:24:21,553	366	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:24:21,560	373	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,561	374	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,562	375	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:24:21,581	394	com.qa.tests.HomePageTest	[main]	************************"verifyLoginPageSingInTest" is started...************************
+INFO	2020-04-23 11:24:21,583	396	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,602	415	com.qa.tests.HomePageTest	[main]	verifying verifyLoginPageSingInTest tests
+INFO	2020-04-23 11:24:21,603	416	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:24:21,604	417	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:24:21,620	433	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,623	436	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,624	437	com.qa.tests.HomePageTest	[main]	verifyLoginPageSingInTest is completed successfully
+INFO	2020-04-23 11:24:21,650	463	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:24:21,669	482	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:24:21,681	494	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:24:21,682	495	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:24:21,692	505	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:24:21,693	506	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:24:21,695	508	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:24:21,703	516	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:24:21,704	517	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:24:21,705	518	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:28:44,358	0	com.qa.tests.HomePageTest	[main]	************************"verifyTitleTest" is started...************************
+INFO	2020-04-23 11:28:44,363	5	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:44,808	450	com.qa.tests.HomePageTest	[main]	verifying verifyTitleTest tests
+INFO	2020-04-23 11:28:44,809	451	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:28:44,821	463	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:44,823	465	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:44,823	465	com.qa.tests.HomePageTest	[main]	verifyTitleTest is completed successfully
+INFO	2020-04-23 11:28:44,850	492	com.qa.tests.HomePageTest	[main]	************************"verifyTitleTest" is started...************************
+INFO	2020-04-23 11:28:44,851	493	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:44,858	500	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:28:44,860	502	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:28:44,881	523	com.qa.tests.HomePageTest	[main]	verifying verifyTitleTest tests
+INFO	2020-04-23 11:28:44,883	525	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:28:44,903	545	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:44,905	547	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:44,906	548	com.qa.tests.HomePageTest	[main]	verifyTitleTest is completed successfully
+INFO	2020-04-23 11:28:44,931	573	com.qa.tests.HomePageTest	[main]	************************"verifyLogoTest" is started...************************
+INFO	2020-04-23 11:28:44,933	575	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:44,943	585	com.qa.tests.HomePageTest	[main]	verifying verifyLogoTest tests
+INFO	2020-04-23 11:28:44,944	586	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:28:44,954	596	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:44,955	597	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:44,956	598	com.qa.tests.HomePageTest	[main]	verifyLogoTest is completed successfully
+INFO	2020-04-23 11:28:44,975	617	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:28:44,976	618	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:44,981	623	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:28:44,982	624	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:28:44,992	634	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:28:44,994	636	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:28:45,008	650	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:45,011	653	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:45,012	654	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:28:45,031	673	com.qa.tests.HomePageTest	[main]	************************"verifySignInTest" is started...************************
+INFO	2020-04-23 11:28:45,032	674	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:45,042	684	com.qa.tests.HomePageTest	[main]	verifying verifySignInTest tests
+INFO	2020-04-23 11:28:45,050	692	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:28:45,051	693	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:28:45,064	706	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:45,082	724	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:45,083	725	com.qa.tests.HomePageTest	[main]	verifySignInTest is completed successfully
+INFO	2020-04-23 11:28:45,101	743	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:28:45,102	744	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:28:45,112	754	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:28:45,113	755	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:28:45,120	762	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:28:45,121	763	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:28:45,122	764	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:28:45,128	770	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:28:45,129	771	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:28:45,130	772	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:29:48,445	0	com.qa.tests.HomePageTest	[main]	************************"verifyTitleTest" is started...************************
+INFO	2020-04-23 11:29:48,450	5	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,620	175	com.qa.tests.HomePageTest	[main]	verifying verifyTitleTest tests
+INFO	2020-04-23 11:29:48,621	176	com.qa.tests.HomePageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:29:48,633	188	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,634	189	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,635	190	com.qa.tests.HomePageTest	[main]	verifyTitleTest is completed successfully
+INFO	2020-04-23 11:29:48,662	217	com.qa.tests.HomePageTest	[main]	************************"verifyBannerTest" is started...************************
+INFO	2020-04-23 11:29:48,663	218	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,671	226	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:29:48,673	228	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:29:48,696	251	com.qa.tests.HomePageTest	[main]	verifying verifyBannerTest tests
+INFO	2020-04-23 11:29:48,697	252	com.qa.tests.HomePageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:29:48,723	278	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,724	279	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,725	280	com.qa.tests.HomePageTest	[main]	verifyBannerTest is completed successfully
+INFO	2020-04-23 11:29:48,742	297	com.qa.tests.HomePageTest	[main]	************************"verifyLogoTest" is started...************************
+INFO	2020-04-23 11:29:48,744	299	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,752	307	com.qa.tests.HomePageTest	[main]	verifying verifyLogoTest tests
+INFO	2020-04-23 11:29:48,754	309	com.qa.tests.HomePageTest	[main]	checking image
+INFO	2020-04-23 11:29:48,764	319	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,766	321	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,767	322	com.qa.tests.HomePageTest	[main]	verifyLogoTest is completed successfully
+INFO	2020-04-23 11:29:48,783	338	com.qa.tests.HomePageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:29:48,784	339	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,788	343	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:29:48,789	344	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:29:48,798	353	com.qa.tests.HomePageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:29:48,800	355	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:29:48,810	365	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,811	366	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,812	367	com.qa.tests.HomePageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:29:48,824	379	com.qa.tests.HomePageTest	[main]	************************"verifySignInTest" is started...************************
+INFO	2020-04-23 11:29:48,825	380	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,832	387	com.qa.tests.HomePageTest	[main]	verifying verifySignInTest tests
+INFO	2020-04-23 11:29:48,833	388	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:29:48,834	389	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:29:48,843	398	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,844	399	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,845	400	com.qa.tests.HomePageTest	[main]	verifySignInTest is completed successfully
+INFO	2020-04-23 11:29:48,860	415	com.qa.tests.HomePageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:29:48,861	416	com.qa.tests.HomePageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:29:48,870	425	com.qa.tests.HomePageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:29:48,871	426	com.qa.tests.HomePageTest	[main]	checking login
+INFO	2020-04-23 11:29:48,877	432	com.qa.tests.HomePageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:29:48,878	433	com.qa.tests.HomePageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:29:48,879	434	com.qa.tests.HomePageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:29:48,885	440	com.qa.tests.HomePageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:29:48,886	441	com.qa.tests.HomePageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:29:48,886	441	com.qa.tests.HomePageTest	[main]	verifyContactsLinkTest is completed successfully
+INFO	2020-04-23 11:34:11,334	1	com.qa.tests.SignUpPageTest	[main]	************************"verifyTitleTest" is started...************************
+INFO	2020-04-23 11:34:11,338	5	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,499	166	com.qa.tests.SignUpPageTest	[main]	verifying verifyTitleTest tests
+INFO	2020-04-23 11:34:11,501	168	com.qa.tests.SignUpPageTest	[main]	getting tile of Login Page
+INFO	2020-04-23 11:34:11,511	178	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,527	194	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,528	195	com.qa.tests.SignUpPageTest	[main]	verifyTitleTest is completed successfully
+INFO	2020-04-23 11:34:11,551	218	com.qa.tests.SignUpPageTest	[main]	************************"verifyBannerTest" is started...************************
+INFO	2020-04-23 11:34:11,553	220	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,561	228	com.qa.tests.SignUpPageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:34:11,562	229	com.qa.tests.SignUpPageTest	[main]	checking login
+INFO	2020-04-23 11:34:11,590	257	com.qa.tests.SignUpPageTest	[main]	verifying verifyBannerTest tests
+INFO	2020-04-23 11:34:11,591	258	com.qa.tests.SignUpPageTest	[main]	getting title of the Home Page
+INFO	2020-04-23 11:34:11,607	274	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,608	275	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,608	275	com.qa.tests.SignUpPageTest	[main]	verifyBannerTest is completed successfully
+INFO	2020-04-23 11:34:11,624	291	com.qa.tests.SignUpPageTest	[main]	************************"verifyFieldsTest" is started...************************
+INFO	2020-04-23 11:34:11,626	293	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,631	298	com.qa.tests.SignUpPageTest	[main]	verifying verifyFieldsTest tests
+INFO	2020-04-23 11:34:11,638	305	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,640	307	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,641	308	com.qa.tests.SignUpPageTest	[main]	verifyFieldsTest is completed successfully
+INFO	2020-04-23 11:34:11,655	322	com.qa.tests.SignUpPageTest	[main]	************************"verifyLogoTest" is started...************************
+INFO	2020-04-23 11:34:11,657	324	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,667	334	com.qa.tests.SignUpPageTest	[main]	verifying verifyLogoTest tests
+INFO	2020-04-23 11:34:11,668	335	com.qa.tests.SignUpPageTest	[main]	checking image
+INFO	2020-04-23 11:34:11,682	349	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,683	350	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,684	351	com.qa.tests.SignUpPageTest	[main]	verifyLogoTest is completed successfully
+INFO	2020-04-23 11:34:11,701	368	com.qa.tests.SignUpPageTest	[main]	************************"verifyUserNameTest" is started...************************
+INFO	2020-04-23 11:34:11,702	369	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,707	374	com.qa.tests.SignUpPageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:34:11,708	375	com.qa.tests.SignUpPageTest	[main]	checking login
+INFO	2020-04-23 11:34:11,717	384	com.qa.tests.SignUpPageTest	[main]	verifying verifyUserNameTest tests
+INFO	2020-04-23 11:34:11,718	385	com.qa.tests.SignUpPageTest	[main]	switching to mainpanel
+INFO	2020-04-23 11:34:11,727	394	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,728	395	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,728	395	com.qa.tests.SignUpPageTest	[main]	verifyUserNameTest is completed successfully
+INFO	2020-04-23 11:34:11,747	414	com.qa.tests.SignUpPageTest	[main]	************************"verifySignInButtonTest" is started...************************
+INFO	2020-04-23 11:34:11,749	416	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,756	423	com.qa.tests.SignUpPageTest	[main]	verifying verifySignInButtonTest tests
+INFO	2020-04-23 11:34:11,765	432	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,766	433	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,767	434	com.qa.tests.SignUpPageTest	[main]	verifySignInButtonTest is completed successfully
+INFO	2020-04-23 11:34:11,782	449	com.qa.tests.SignUpPageTest	[main]	************************"verifySignInTest" is started...************************
+INFO	2020-04-23 11:34:11,783	450	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,793	460	com.qa.tests.SignUpPageTest	[main]	verifying verifySignInTest tests
+INFO	2020-04-23 11:34:11,794	461	com.qa.tests.SignUpPageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:34:11,795	462	com.qa.tests.SignUpPageTest	[main]	checking login
+INFO	2020-04-23 11:34:11,804	471	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,805	472	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,806	473	com.qa.tests.SignUpPageTest	[main]	verifySignInTest is completed successfully
+INFO	2020-04-23 11:34:11,820	487	com.qa.tests.SignUpPageTest	[main]	************************"verifyContactsLinkTest" is started...************************
+INFO	2020-04-23 11:34:11,822	489	com.qa.tests.SignUpPageTest	[main]	launching the browser ...
+INFO	2020-04-23 11:34:11,826	493	com.qa.tests.SignUpPageTest	[main]	getting the user credentials
+INFO	2020-04-23 11:34:11,827	494	com.qa.tests.SignUpPageTest	[main]	checking login
+INFO	2020-04-23 11:34:11,836	503	com.qa.tests.SignUpPageTest	[main]	verifying verifyContactsLinkTest tests
+INFO	2020-04-23 11:34:11,837	504	com.qa.tests.SignUpPageTest	[main]	clicking contacts link
+INFO	2020-04-23 11:34:11,845	512	com.qa.tests.SignUpPageTest	[main]	closing the  browser...
+INFO	2020-04-23 11:34:11,846	513	com.qa.tests.SignUpPageTest	[main]	browser is terminated successfully
+INFO	2020-04-23 11:34:11,847	514	com.qa.tests.SignUpPageTest	[main]	verifyContactsLinkTest is completed successfully

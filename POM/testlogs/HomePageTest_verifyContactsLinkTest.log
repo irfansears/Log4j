@@ -1,0 +1,20 @@
+23/04/2020 11:29     INFO  ************************"verifyContactsLinkTest" is started...************************
+ 23/04/2020 11:29     INFO  launching the browser ...
+ 23/04/2020 11:29     INFO  getting the user credentials
+ 23/04/2020 11:29     INFO  checking login
+ 23/04/2020 11:29     INFO  verifying verifyContactsLinkTest tests
+ 23/04/2020 11:29     INFO  switching to mainpanel
+ 23/04/2020 11:29     INFO  clicking contacts link
+ 23/04/2020 11:29     INFO  closing the  browser...
+ 23/04/2020 11:29     INFO  browser is terminated successfully
+ 23/04/2020 11:29     INFO  verifyContactsLinkTest is completed successfully
+ 23/04/2020 11:34     INFO  ************************"verifyContactsLinkTest" is started...************************
+ 23/04/2020 11:34     INFO  launching the browser ...
+ 23/04/2020 11:34     INFO  getting the user credentials
+ 23/04/2020 11:34     INFO  checking login
+ 23/04/2020 11:34     INFO  verifying verifyContactsLinkTest tests
+ 23/04/2020 11:34     INFO  clicking contacts link
+ 23/04/2020 11:34     INFO  closing the  browser...
+ 23/04/2020 11:34     INFO  browser is terminated successfully
+ 23/04/2020 11:34     INFO  verifyContactsLinkTest is completed successfully
+ 
